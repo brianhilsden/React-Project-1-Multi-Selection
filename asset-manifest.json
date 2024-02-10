@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Project-1:Multi-Selection/static/css/main.95b5f372.css",
-    "main.js": "/React-Project-1:Multi-Selection/static/js/main.932d9b9d.js",
-    "static/js/808.f3819552.chunk.js": "/React-Project-1:Multi-Selection/static/js/808.f3819552.chunk.js",
-    "index.html": "/React-Project-1:Multi-Selection/index.html",
-    "main.95b5f372.css.map": "/React-Project-1:Multi-Selection/static/css/main.95b5f372.css.map",
-    "main.932d9b9d.js.map": "/React-Project-1:Multi-Selection/static/js/main.932d9b9d.js.map",
-    "808.f3819552.chunk.js.map": "/React-Project-1:Multi-Selection/static/js/808.f3819552.chunk.js.map"
+    "main.css": "/React-Project-1-Multi-Selection/static/css/main.95b5f372.css",
+    "main.js": "/React-Project-1-Multi-Selection/static/js/main.cefb1295.js",
+    "static/js/808.f3819552.chunk.js": "/React-Project-1-Multi-Selection/static/js/808.f3819552.chunk.js",
+    "index.html": "/React-Project-1-Multi-Selection/index.html",
+    "main.95b5f372.css.map": "/React-Project-1-Multi-Selection/static/css/main.95b5f372.css.map",
+    "main.cefb1295.js.map": "/React-Project-1-Multi-Selection/static/js/main.cefb1295.js.map",
+    "808.f3819552.chunk.js.map": "/React-Project-1-Multi-Selection/static/js/808.f3819552.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95b5f372.css",
-    "static/js/main.932d9b9d.js"
+    "static/js/main.cefb1295.js"
   ]
 }
