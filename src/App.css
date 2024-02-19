@@ -1,0 +1,32 @@
+.App--button{
+  margin-top: 1rem;
+
+  display: flex;
+  justify-content: center;
+
+}
+.App--title{
+  margin-top: 1rem;
+
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  
+}
+.group_mapped{
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.project1-title{
+  display: flex;
+  height: 10vh;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-bottom: black solid;
+  background-color:rosybrown; 
+}

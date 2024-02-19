@@ -1,0 +1,5 @@
+const data=[{id:1,topic:"Software requirements",data:"Requirements engineering is about the elicitation, analysis, specification, and validation of requirements for software. Software requirements can be of three different types.",isCollapsed:false},
+{id:2,topic:"Software construction",data:"Software construction, the main activity of software development,is the combination of programming, unit testing, integration testing, and debugging so as to implement the design",isCollapsed:false},
+{id:3,topic:"Software testing",data:"Software testing is an empirical, technical investigation conducted to provide stakeholders with information about the quality of the product or service under test, with different approaches such as unit testing and integration testing",isCollapsed:false},
+{id:4,topic:"Software analysis",data:"Software analysis is the process of analyzing the behavior of computer programs regarding a property such as performance, robustness, and security It can be performed without executing the program (static program analysis), during runtime (dynamic program analysis) or in a combination of both.",isCollapsed:false}];
+export default data;
